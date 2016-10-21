@@ -1,0 +1,279 @@
+Starting the logger (C:\Users\jagre_000\AppData\Local\Android\sdk/platform-tools/adb logcat *:S ReactNative:V ReactNativeJS:V)...
+--------- beginning of main
+--------- beginning of system
+08-06 14:42:31.287  2798  2848 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:42:31.344  2798  2848 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:42:31.380  2798  2848 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      titleStyle: 90,
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      parent: 'root',
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      direction: 'vertical',
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      hideTabBar: true,
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      hideNavBar: false,
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      initial: true,
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:      index: 0 },
+08-06 14:42:31.380  2798  2848 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:42:31.382  2798  2848 W ReactNativeJS: EAADwp67c774BALO72tKzctDLcPzxXgW3OwxGRxfDMtC2qTM80MZA9s11YMfdJ1CroMuPIR3xKJhrX026KLP3wQut742XhtjGiK8ZBzPrWdPzYW8jlOZAgtxPDgvLlD81KYaymCBX2EMDKNbn8mAZARW4nmZBjZBdek7Yu3MHoXT8gZBZC4vRBloe88tdvEMzHs3NHBk9OWFZAFwZDZD
+08-06 14:42:31.527  2798  2848 W ReactNativeJS: ,,,,,,,,,,,,,,,,,,,,,,,,
+08-06 14:46:01.282  2798  3201 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:46:01.307  2798  3201 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:46:01.341  2798  3201 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      titleStyle: 90,
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      parent: 'root',
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      direction: 'vertical',
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      hideTabBar: true,
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      hideNavBar: false,
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      initial: true,
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:      index: 0 },
+08-06 14:46:01.341  2798  3201 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:46:01.343  2798  3201 W ReactNativeJS: EAADwp67c774BALO72tKzctDLcPzxXgW3OwxGRxfDMtC2qTM80MZA9s11YMfdJ1CroMuPIR3xKJhrX026KLP3wQut742XhtjGiK8ZBzPrWdPzYW8jlOZAgtxPDgvLlD81KYaymCBX2EMDKNbn8mAZARW4nmZBjZBdek7Yu3MHoXT8gZBZC4vRBloe88tdvEMzHs3NHBk9OWFZAFwZDZD
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: Possible Unhandled Promise Rejection (id: 0):
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: undefined is not an object (evaluating '_reactNativeContacts.Contacts.getAll')
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:133374:30
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: tryCallOne@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:24528:10
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:24614:19
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:5122:18
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: callTimer@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:4906:9
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: callImmediatesPass@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:4964:28
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: callImmediates@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:4979:43
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3579:57
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: guard@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3483:3
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: __callImmediates@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3579:6
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3546:24
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: guard@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3483:3
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: invokeCallbackAndReturnFlushedQueue@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3544:6
+08-06 14:46:01.450  2798  3201 W ReactNativeJS: invokeCallbackAndReturnFlushedQueue@[native code]
+08-06 14:47:46.333  2798  3363 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:47:46.360  2798  3363 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:47:46.391  2798  3363 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      titleStyle: 90,
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      parent: 'root',
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      direction: 'vertical',
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      hideTabBar: true,
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      hideNavBar: false,
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      initial: true,
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:      index: 0 },
+08-06 14:47:46.391  2798  3363 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:47:46.392  2798  3363 W ReactNativeJS: EAADwp67c774BALO72tKzctDLcPzxXgW3OwxGRxfDMtC2qTM80MZA9s11YMfdJ1CroMuPIR3xKJhrX026KLP3wQut742XhtjGiK8ZBzPrWdPzYW8jlOZAgtxPDgvLlD81KYaymCBX2EMDKNbn8mAZARW4nmZBjZBdek7Yu3MHoXT8gZBZC4vRBloe88tdvEMzHs3NHBk9OWFZAFwZDZD
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: Possible Unhandled Promise Rejection (id: 0):
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: undefined is not an object (evaluating '_reactNativeContacts.Contacts.getAll')
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:133374:30
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: tryCallOne@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:24528:10
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:24614:19
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:5122:18
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: callTimer@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:4906:9
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: callImmediatesPass@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:4964:28
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: callImmediates@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:4979:43
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3579:57
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: guard@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3483:3
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: __callImmediates@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3579:6
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3546:24
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: guard@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3483:3
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: invokeCallbackAndReturnFlushedQueue@http://10.0.2.2:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false:3544:6
+08-06 14:47:46.500  2798  3363 W ReactNativeJS: invokeCallbackAndReturnFlushedQueue@[native code]
+08-06 14:49:53.994  2798  3518 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:49:54.019  2798  3518 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:50:44.268  2798  3582 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:50:44.295  2798  3582 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:53:17.562  2798  3739 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:53:17.613  2798  3739 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:54:06.832  2798  3796 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:54:06.860  2798  3796 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:54:06.889  2798  3796 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      titleStyle: 90,
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      parent: 'root',
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      direction: 'vertical',
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      hideTabBar: true,
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      hideNavBar: false,
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      initial: true,
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:      index: 0 },
+08-06 14:54:06.889  2798  3796 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:54:31.705  2798  3802 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:54:31.729  2798  3802 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:54:31.760  2798  3802 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      titleStyle: 90,
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      parent: 'root',
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      direction: 'vertical',
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      hideTabBar: true,
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      hideNavBar: false,
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      initial: true,
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:      index: 0 },
+08-06 14:54:31.760  2798  3802 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:57:06.368  3949  3984 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:57:06.396  3949  3984 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:57:06.439  3949  3984 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      titleStyle: 90,
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      parent: 'root',
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      direction: 'vertical',
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      hideTabBar: true,
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      hideNavBar: false,
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      initial: true,
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:      index: 0 },
+08-06 14:57:06.439  3949  3984 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:57:06.452  3949  3984 I ReactNativeJS: [ { emailAddresses: [],
+08-06 14:57:06.452  3949  3984 I ReactNativeJS:     phoneNumbers: [ { label: 'mobile', number: '(619) 123-4567' } ],
+08-06 14:57:06.452  3949  3984 I ReactNativeJS:     thumbnailPath: '',
+08-06 14:57:06.452  3949  3984 I ReactNativeJS:     familyName: null,
+08-06 14:57:06.452  3949  3984 I ReactNativeJS:     middleName: null,
+08-06 14:57:06.452  3949  3984 I ReactNativeJS:     givenName: 'Asdf',
+08-06 14:57:06.452  3949  3984 I ReactNativeJS:     recordID: '1' } ]
+08-06 14:57:09.686  3949  3994 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:57:09.737  3949  3994 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:57:09.770  3949  3994 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      titleStyle: 90,
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      parent: 'root',
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      direction: 'vertical',
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      hideTabBar: true,
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      hideNavBar: false,
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      initial: true,
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:      index: 0 },
+08-06 14:57:09.770  3949  3994 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:57:09.777  3949  3994 I ReactNativeJS: [ { emailAddresses: [],
+08-06 14:57:09.777  3949  3994 I ReactNativeJS:     phoneNumbers: [ { label: 'mobile', number: '(619) 123-4567' } ],
+08-06 14:57:09.777  3949  3994 I ReactNativeJS:     thumbnailPath: '',
+08-06 14:57:09.777  3949  3994 I ReactNativeJS:     familyName: null,
+08-06 14:57:09.777  3949  3994 I ReactNativeJS:     middleName: null,
+08-06 14:57:09.777  3949  3994 I ReactNativeJS:     givenName: 'Asdf',
+08-06 14:57:09.777  3949  3994 I ReactNativeJS:     recordID: '1' } ]
+08-06 14:57:25.824  3949  4020 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:57:25.848  3949  4020 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:57:25.887  3949  4020 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      titleStyle: 90,
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      parent: 'root',
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      direction: 'vertical',
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      hideTabBar: true,
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      hideNavBar: false,
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      initial: true,
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:      index: 0 },
+08-06 14:57:25.887  3949  4020 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:57:25.891  3949  4020 W ReactNativeJS: [ { emailAddresses: [],
+08-06 14:57:25.891  3949  4020 W ReactNativeJS:     phoneNumbers: [ { label: 'mobile', number: '(619) 123-4567' } ],
+08-06 14:57:25.891  3949  4020 W ReactNativeJS:     thumbnailPath: '',
+08-06 14:57:25.891  3949  4020 W ReactNativeJS:     familyName: null,
+08-06 14:57:25.891  3949  4020 W ReactNativeJS:     middleName: null,
+08-06 14:57:25.891  3949  4020 W ReactNativeJS:     givenName: 'Asdf',
+08-06 14:57:25.891  3949  4020 W ReactNativeJS:     recordID: '1' } ]
+08-06 14:57:58.537  3949  4079 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:57:58.563  3949  4079 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:57:58.595  3949  4079 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      titleStyle: 90,
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      parent: 'root',
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      direction: 'vertical',
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      hideTabBar: true,
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      hideNavBar: false,
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      initial: true,
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:      index: 0 },
+08-06 14:57:58.595  3949  4079 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:57:58.604  3949  4079 W ReactNativeJS: [object Object]
+08-06 14:58:15.504  3949  4106 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:58:15.530  3949  4106 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:58:15.564  3949  4106 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      titleStyle: 90,
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      parent: 'root',
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      direction: 'vertical',
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      hideTabBar: true,
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      hideNavBar: false,
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      initial: true,
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:      index: 0 },
+08-06 14:58:15.564  3949  4106 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:58:15.572  3949  4106 W ReactNativeJS: [object Object]
+08-06 14:58:24.918  3949  4122 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-06 14:58:24.942  3949  4122 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-06 14:58:24.972  3949  4122 I ReactNativeJS: 'ACTION:', { scene: 
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      navigationBarStyle: 89,
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      titleStyle: 90,
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      key: '0_ChooseContact',
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      name: 'ChooseContact',
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      parent: 'root',
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      direction: 'vertical',
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      hideTabBar: true,
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      hideNavBar: false,
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      title: 'ChooseContact',
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      initial: true,
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      component: [Function: CreateFlow],
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:      index: 0 },
+08-06 14:58:24.972  3949  4122 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-06 14:58:24.982  3949  4122 I ReactNativeJS: [object Object]
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? 

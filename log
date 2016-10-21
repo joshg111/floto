@@ -1,0 +1,304 @@
+Starting the logger (C:\Users\jagre_000\AppData\Local\Android\sdk/platform-tools/adb logcat *:S ReactNative:V ReactNativeJS:V)...
+--------- beginning of main
+--------- beginning of system
+08-05 09:31:37.897  2900  3792 I ReactNativeJS: 'Response = ', { type: 'image/jpeg',
+08-05 09:31:37.897  2900  3792 I ReactNativeJS:   fileName: 'image-7c7be1eb-b8d9-4eb9-98ed-29b5ee76464a.jpg',
+08-05 09:31:37.897  2900  3792 I ReactNativeJS:   fileSize: 9304,
+08-05 09:31:37.897  2900  3792 I ReactNativeJS:   path: '/storage/emulated/0/Pictures/image-7c7be1eb-b8d9-4eb9-98ed-29b5ee76464a.jpg',
+08-05 09:31:37.897  2900  3792 I ReactNativeJS:   data: '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
+08-05 09:31:42.207  2900  3792 I ReactNativeJS: 'ACTION:', { key: 'ChooseContact', type: 'REACT_NATIVE_ROUTER_FLUX_PUSH' }
+08-05 09:31:42.208  2900  3792 I ReactNativeJS: 'ACTION:', { scene: 
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      navigationBarStyle: 88,
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      titleStyle: 89,
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      key: 'ChooseContact_2_ChooseContact',
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      name: 'ChooseContact',
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      parent: 'root',
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      direction: 'vertical',
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      hideNavBar: false,
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      title: 'ChooseContact',
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      component: [Function: CreateFlow],
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:      index: 0 },
+08-05 09:31:42.208  2900  3792 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-05 09:31:42.236  2900  3792 W ReactNativeJS: EAADwp67c774BALO72tKzctDLcPzxXgW3OwxGRxfDMtC2qTM80MZA9s11YMfdJ1CroMuPIR3xKJhrX026KLP3wQut742XhtjGiK8ZBzPrWdPzYW8jlOZAgtxPDgvLlD81KYaymCBX2EMDKNbn8mAZARW4nmZBjZBdek7Yu3MHoXT8gZBZC4vRBloe88tdvEMzHs3NHBk9OWFZAFwZDZD
+08-05 09:31:42.687  2900  3792 W ReactNativeJS: {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:     "paging": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         "next": "https://graph.facebook.com/v2.7/10154469165618939/invitable_friends?access_token=EAADwp67c774BALO72tKzctDLcPzxXgW3OwxGRxfDMtC2qTM80MZA9s11YMfdJ1CroMuPIR3xKJhrX026KLP3wQut742XhtjGiK8ZBzPrWdPzYW8jlOZAgtxPDgvLlD81KYaymCBX2EMDKNbn8mAZARW4nmZBjZBdek7Yu3MHoXT8gZBZC4vRBloe88tdvEMzHs3NHBk9OWFZAFwZDZD&limit=25&after=QVZAuZA25xSUl6OEIzeG9qdHZATR2Nnei02VHNIVXJ0c0FJaFZADeG9jaUVhYmpvVmV2YUYyenZAtRkNMYm1UMDJEcXZAwTU5mSHRXTVpNZATF0UWlya05sTXBKRjdJM3pJMllrM241REZASd3llb2RoVWcZD",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         "cursors": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "after": "QVZAuZA25xSUl6OEIzeG9qdHZATR2Nnei02VHNIVXJ0c0FJaFZADeG9jaUVhYmpvVmV2YUYyenZAtRkNMYm1UMDJEcXZAwTU5mSHRXTVpNZATF0UWlya05sTXBKRjdJM3pJMllrM241REZASd3llb2RoVWcZD",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "before": "QVZArVkFLV19uM2xWeXh2b3BLanVzdVJMOWo0OW5aTTRVaU40YmM5QUpua3V2QjlGVWdvNkw5X2dHOGZAIWURZAYzZAuSzl2ZAXREUkg5TXppMWc5eTdrTk9kM2lkb2VtUVRZAZAmpFMF9oek8xTVktQkEZD"
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         }
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:     },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:     "data": [
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "picture": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 "data": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13731452_10209033841776558_6911229921002927912_n.jpg?oh=1ffbbbfad3ba3ab24324083d2e8954b7&oe=5818D3ED",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 }
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "name": "Ali Love",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "id": "AVmM-HfgpWjsK1B9wvcppZdARcfFj_k58105c19heJy7kEjCzhp-8KPsuNKLuAjmISisRZGm0oVQFkODW-DoRuXYQoRlbZxouXtnoWlj0j29Ww"
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "picture": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 "data": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13690638_10154117254620033_3333806498912056628_n.jpg?oh=d30b70cc17af69446a944afae2bb63f1&oe=582823F3",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 }
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "name": "Mariah Hamm",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "id": "AVm1x6GjL-cmTlBJbSW2TqWIlE8Swa-uJq77w4WehCVlI8XHifAxZc6LrJU-H3Ash2ZuDLTakDOF-JpyHepDH2eTOwomXgW0sxMt0sJ1YK_nqw"
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "picture": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 "data": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/c0.17.50.50/p50x50/1891040_10201604449301694_1144482138_n.jpg?oh=68f515d9e2b3033911e779e953535ccf&oe=585EE686",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 }
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "name": "Jill E Matthews",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "id": "AVkerBWNFXULJ-vcvCuTRnaUGBt7XDvKe_lZLga2rqP7xsKhLjmQCxvIO33bh1fKs6bHaXQLeCSAQ_8PlVABOf1ZnK5yAjqr5TcNVsxNKI2TtQ"
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "picture": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 "data": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13690793_10209708769818065_2435541818991952435_n.jpg?oh=45d9cd5314b6d556f5b6e2ffc395c44f&oe=5853D675",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 }
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "name": "Anthony Koll",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "id": "AVkdCyOO75BwDGqcYLwYamrDvQRH14ahbvzEuWHaCrLkM-3ezR-PAWjkMsVfxJBEq4m46lUfNdH7QlYTbObV50vqajfDDxLlE6VYeES7H5M-Eg"
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "picture": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 "data": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/c0.13.50.50/p50x50/1896995_10152243613784530_1761732396_n.jpg?oh=ede38f92b2a76705eb7ff7e199e7ed45&oe=58127C7F",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 }
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "name": "Shane Cox",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "id": "AVml-b61qUxEpG8HOoX5Od7CB6GwmEyicE0nvWjnoJ4wE_w9jCwqbiTtMhMsEi1AMmESjIsbIIavqPztPfTfaV-todOnsSkFhDWAju6gGuO2dQ"
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "picture": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 "data": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13537745_10104987056785122_7270030920662868048_n.jpg?oh=663206598b005e369e80ec35d213283c&oe=582A2183",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 }
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "name": "Aaron Noel",
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "id": "AVnzqTVSeAQ-fYdQkxljaZzeh7mDy_f6MDMSRmawmofWFBKLpymCrwIP1ix7CPkARydnlU7RSYrT_fNpI01eFe2rM65XvZ9jeaJNJZAWn-eh6A"
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         },
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:         {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:             "picture": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                 "data": {
+08-05 09:31:42.687  2900  3792 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13872988_1163628683688157_4138474397492485905_n.jpg?oh=1a
+08-05 09:31:42.688  2900  3792 E ReactNativeJS: undefined is not a function (evaluating 'this.setState({friends:str})')
+08-05 09:32:40.831  2900  3887 I ReactNativeJS: Running application "floto" with appParams: {"initialProps":{},"rootTag":1}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+08-05 09:32:40.855  2900  3887 I ReactNativeJS: 'ACTION:', { type: 'RootContainerInitialAction' }
+08-05 09:32:40.941  2900  3887 I ReactNativeJS: 'ACTION:', { scene: 
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      navigationBarStyle: 88,
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      titleStyle: 89,
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      key: '0_MyEvents_',
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      name: 'MyEvents',
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      sceneKey: 'MyEvents_',
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      parent: 'MyEvents',
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      direction: 'vertical',
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      icon: [Function: TabIcon],
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      hideNavBar: false,
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      title: 'MyEvents',
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      initial: true,
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:      component: [Function: MyEvents] },
+08-05 09:32:40.941  2900  3887 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-05 09:32:40.943  2900  3887 I ReactNativeJS: 'ACTION:', { scene: 
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:    { key: '0_tab_main',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      name: 'tab_main',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      sceneKey: 'tab_main',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      parent: 'root',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      tabs: true,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      tabBarStyle: 90,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      tabBarSelectedItemStyle: 91,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      initial: true,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      children: 
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:       [ { key: '0_MyEvents',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           name: 'MyEvents',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           sceneKey: 'MyEvents',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           parent: 'tab_main',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           type: 'REACT_NATIVE_ROUTER_FLUX_JUMP',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           direction: 'vertical',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           icon: [Function: TabIcon],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           hideNavBar: false,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           title: 'MyEvents',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           initial: true,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           children: 
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:            [ { getSceneStyle: [Function: getSceneStyle],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                navigationBarStyle: 88,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                titleStyle: 89,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                key: '0_MyEvents_',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                name: 'MyEvents',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                sceneKey: 'MyEvents_',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                parent: 'MyEvents',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                direction: 'vertical',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                icon: [Function: TabIcon],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                hideNavBar: false,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                title: 'MyEvents',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                initial: true,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                component: [Function: MyEvents] } ],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           index: 0,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           getSceneStyle: [Function: getSceneStyle],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           navigationBarStyle: 88,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           titleStyle: 89 },
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:         { key: '1_MyProfile',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           name: 'MyProfile',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           sceneKey: 'MyProfile',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           parent: 'tab_main',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           type: 'REACT_NATIVE_ROUTER_FLUX_JUMP',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           title: 'MyProfile',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           onRight: [Function: onRight],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           rightTitle: 'EDIT',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           hideNavBar: false,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           icon: [Function: TabIcon],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           children: 
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:            [ { getSceneStyle: [Function: getSceneStyle],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                navigationBarStyle: 88,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                titleStyle: 89,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                key: '0_MyProfile_',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                name: 'MyProfile',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                sceneKey: 'MyProfile_',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                parent: 'MyProfile',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                title: 'MyProfile',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                onRight: [Function: onRight],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                rightTitle: 'EDIT',
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                hideNavBar: false,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                icon: [Function: TabIcon],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:                component: [Function: Main] } ],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           index: 0,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           getSceneStyle: [Function: getSceneStyle],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           navigationBarStyle: 88,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:           titleStyle: 89 } ],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      getSceneStyle: [Function: getSceneStyle],
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      navigationBarStyle: 88,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      titleStyle: 89,
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:      index: 0 },
+08-05 09:32:40.943  2900  3887 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-05 09:32:45.289  2900  3887 I ReactNativeJS: 'ACTION:', { key: 'CreateFlow', type: 'REACT_NATIVE_ROUTER_FLUX_PUSH' }
+08-05 09:32:45.290  2900  3887 I ReactNativeJS: 'ACTION:', { scene: 
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      navigationBarStyle: 88,
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      titleStyle: 89,
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      key: 'CreateFlow_1_CreateFlow',
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      name: 'CreateFlow',
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      sceneKey: 'CreateFlow',
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      parent: 'root',
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      direction: 'vertical',
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      hideTabBar: true,
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      hideNavBar: false,
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      title: 'CreateFlow',
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      component: [Function: CreateFlow],
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:      index: 0 },
+08-05 09:32:45.290  2900  3887 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-05 09:32:47.846  2900  3887 I ReactNativeJS: 'Response = ', { type: 'image/jpeg',
+08-05 09:32:47.846  2900  3887 I ReactNativeJS:   fileName: 'image-3bd4ac8d-7e86-416b-a4c2-f0fe01b7e326.jpg',
+08-05 09:32:47.846  2900  3887 I ReactNativeJS:   fileSize: 13304,
+08-05 09:32:47.846  2900  3887 I ReactNativeJS:   path: '/storage/emulated/0/Pictures/image-3bd4ac8d-7e86-416b-a4c2-f0fe01b7e326.jpg',
+08-05 09:32:47.846  2900  3887 I ReactNativeJS:   data: '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
+08-05 09:32:49.520  2900  3887 I ReactNativeJS: 'ACTION:', { key: 'ChooseContact', type: 'REACT_NATIVE_ROUTER_FLUX_PUSH' }
+08-05 09:32:49.521  2900  3887 I ReactNativeJS: 'ACTION:', { scene: 
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:    { getSceneStyle: [Function: getSceneStyle],
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      navigationBarStyle: 88,
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      titleStyle: 89,
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      key: 'ChooseContact_2_ChooseContact',
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      name: 'ChooseContact',
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      sceneKey: 'ChooseContact',
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      parent: 'root',
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      type: 'REACT_NATIVE_ROUTER_FLUX_PUSH',
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      direction: 'vertical',
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      hideNavBar: false,
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      title: 'ChooseContact',
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      component: [Function: CreateFlow],
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:      index: 0 },
+08-05 09:32:49.521  2900  3887 I ReactNativeJS:   type: 'REACT_NATIVE_ROUTER_FLUX_FOCUS' }
+08-05 09:32:49.547  2900  3887 W ReactNativeJS: EAADwp67c774BALO72tKzctDLcPzxXgW3OwxGRxfDMtC2qTM80MZA9s11YMfdJ1CroMuPIR3xKJhrX026KLP3wQut742XhtjGiK8ZBzPrWdPzYW8jlOZAgtxPDgvLlD81KYaymCBX2EMDKNbn8mAZARW4nmZBjZBdek7Yu3MHoXT8gZBZC4vRBloe88tdvEMzHs3NHBk9OWFZAFwZDZD
+08-05 09:32:49.748  2900  3887 W ReactNativeJS: {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:     "paging": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         "next": "https://graph.facebook.com/v2.7/10154469165618939/invitable_friends?access_token=EAADwp67c774BALO72tKzctDLcPzxXgW3OwxGRxfDMtC2qTM80MZA9s11YMfdJ1CroMuPIR3xKJhrX026KLP3wQut742XhtjGiK8ZBzPrWdPzYW8jlOZAgtxPDgvLlD81KYaymCBX2EMDKNbn8mAZARW4nmZBjZBdek7Yu3MHoXT8gZBZC4vRBloe88tdvEMzHs3NHBk9OWFZAFwZDZD&limit=25&after=QVZAsMVNNa1pFcHkxTG0tMGxzalV0TjFZAMi1KbUZAXUjYyZAHgyMkJhNE9aelhMNlgzOG5Yc3RJc3Q0akF6U0hpaEdib205Q1ktcEUwcjZAjcnQzYjlJT2hkb1R2MFlfbDFkeWpiVlVQSzkwdUtFMncZD",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         "cursors": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "after": "QVZAsMVNNa1pFcHkxTG0tMGxzalV0TjFZAMi1KbUZAXUjYyZAHgyMkJhNE9aelhMNlgzOG5Yc3RJc3Q0akF6U0hpaEdib205Q1ktcEUwcjZAjcnQzYjlJT2hkb1R2MFlfbDFkeWpiVlVQSzkwdUtFMncZD",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "before": "QVZAuYWZARMFFRcks4emlJSUJkOXdEV3NVUlczSE9HSDAwR0MyLWlLYWs0b0hxZAG1zOHptOVhsT2V1TzhDVE1LTldLMUJtWHA1V0trdUFuZA0x0eEF6N2NkaVpEeWxxNDE2UHlNNkd2d3NkaUtzMncZD"
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         }
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:     },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:     "data": [
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "picture": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 "data": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13731452_10209033841776558_6911229921002927912_n.jpg?oh=1ffbbbfad3ba3ab24324083d2e8954b7&oe=5818D3ED",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 }
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "name": "Ali Love",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "id": "AVk4FyWNsoHMThio3Ji1rUjQxRDm7C-WiV-NhDVVX79OpKIMnr75_SHWM_ZG7h27a_qYAVd3ulqfcotSAQqQIRJXh9Es6cR34tFPd9QNM6-9-w"
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "picture": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 "data": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13690638_10154117254620033_3333806498912056628_n.jpg?oh=d30b70cc17af69446a944afae2bb63f1&oe=582823F3",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 }
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "name": "Mariah Hamm",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "id": "AVmxoxaMVOdUrxWNyc0eWfe8LvFvvxtWRLUhH-mvSd4mMoeQWs2cIvwOLthrNQ1-5J1H6b3brD_lQgukuTUiW-QbFdd1LyRXNAaTpCd4r6viEg"
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "picture": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 "data": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/c0.17.50.50/p50x50/1891040_10201604449301694_1144482138_n.jpg?oh=68f515d9e2b3033911e779e953535ccf&oe=585EE686",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 }
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "name": "Jill E Matthews",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "id": "AVnWazD25rmH83viQ9UIGPFf2zg6U7XxQYC4-xWpPnUz0WCNa6orcjsBoSZEXH39gou5Ieo7v9GLI-0xip1ZA0keJiFmjRvJ9EfeOZ3UZMV-lQ"
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "picture": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 "data": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13690793_10209708769818065_2435541818991952435_n.jpg?oh=45d9cd5314b6d556f5b6e2ffc395c44f&oe=5853D675",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 }
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "name": "Anthony Koll",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "id": "AVnohTY8XWsOc0g2bpeDRoXXvMYJed5DNBMBdhvXesqNP2sCMkqRhXjVJgDZjjYyUxzSjcuuz64S4zoWytbkT_ZXVC47pSf1p6ILId_P7u7lkA"
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "picture": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 "data": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/c0.13.50.50/p50x50/1896995_10152243613784530_1761732396_n.jpg?oh=ede38f92b2a76705eb7ff7e199e7ed45&oe=58127C7F",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 }
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "name": "Shane Cox",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "id": "AVl6rOvYkMYl1kJRo2ctfy7jCBK_ya2RqGbjhR3FDKVaW0T5jmBkCyZIT_t9BvHav5qfdOy-fjOTqj-jGZ52fdMsekRAsccVrcy8VGJZ9xPj-Q"
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "picture": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 "data": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13537745_10104987056785122_7270030920662868048_n.jpg?oh=663206598b005e369e80ec35d213283c&oe=582A2183",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "is_silhouette": false
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 }
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "name": "Aaron Noel",
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "id": "AVl5YIDsjVGZROBMUyMJ0wwOmXtIHzQJtBuoL0uLu3me-wT28EAHdmorB_fvwSDrNtnggurs83o--ZE_oATT9hKetyOZJNhqXiM-oTA0cervkw"
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         },
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:         {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:             "picture": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                 "data": {
+08-05 09:32:49.748  2900  3887 W ReactNativeJS:                     "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13872988_1163628683688157_4138474397492485905_n.jpg?oh=1aaa74dd471
+Terminate batch job (Y/N)? 
